@@ -1,4 +1,5 @@
-Udacity Programming for Data Science Nanodegree 
+Udacity Programming for Data Science Nanodegree
+Changes Made to README File for Github Project
 
 Laura's Bikeshare Data Project
 
@@ -6,7 +7,7 @@ This Python script is written for Project 2 (Term 1) of Udacity's Data Analyst N
 
 How to Run the Script:
 
-You can run the script using a Python integrated development environment (IDE). This script is written in Python 3, so you will need the Python 3.x version of the installer. 
+You can run the script using a Python integrated development environment (IDE). This script is written in Python 3, so you will need the Python 3.x version of the installer.
 
 To read the file, you should have Python 3, NumPy, and pandas installed, and a terminal application (Terminal on Mac and Linux or Cygwin on Windows).
 
@@ -48,4 +49,3 @@ https://codereview.stackexchange.com/questions/221042/python-program-to-convert-
 https://docs.python.org/3.4/library/datetime.html?highlight=weekday
 https://strftime.org/
 https://www.quora.com/How-do-I-get-the-current-year-as-an-int-value-in-Python
-
